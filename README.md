@@ -6,4 +6,4 @@ if you want to try
 
 ```npm create-react-app name```
 
-````npm start```
+```npm start```
